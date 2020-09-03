@@ -1,0 +1,6 @@
+C:\Users\insakayal\source\repos\MaximumSum\MaximumSum\bin\Debug\MaximumSum.exe.config
+C:\Users\insakayal\source\repos\MaximumSum\MaximumSum\bin\Debug\MaximumSum.exe
+C:\Users\insakayal\source\repos\MaximumSum\MaximumSum\bin\Debug\MaximumSum.pdb
+C:\Users\insakayal\source\repos\MaximumSum\MaximumSum\obj\Debug\MaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\insakayal\source\repos\MaximumSum\MaximumSum\obj\Debug\MaximumSum.exe
+C:\Users\insakayal\source\repos\MaximumSum\MaximumSum\obj\Debug\MaximumSum.pdb
